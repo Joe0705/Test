@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"index.js -> ../src/Column":{"id":"index.js -> ../src/Column","files":["static/chunks/src_Column_js.js"]}}
+self.__REACT_LOADABLE_MANIFEST={}
